@@ -1,0 +1,7 @@
+HISTCOUNT=10
+HISTFILECOUNT=20
+
+alias b = "ls -al"
+alias c="ls|wc -w"
+
+PATH=$PATH:/etc

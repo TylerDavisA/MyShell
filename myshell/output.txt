@@ -1,0 +1,22 @@
+total 160
+-rw-rw-r--  1 xeffles xeffles   633 Apr 27 12:05 #Makefile#
+drwxrwxr-x  9 xeffles xeffles  4096 May  2 17:07 .
+drwxr-xr-x 14 xeffles xeffles  4096 May  1 13:06 ..
+-rw-rw-r--  1 xeffles xeffles  1965 May  2 16:47 .mssh_history
+-rw-rw-r--  1 xeffles xeffles    53 Apr 30 11:48 .mssh_history~
+-rw-rw-r--  1 xeffles xeffles   219 May  1 14:02 .msshrc
+-rw-rw-r--  1 xeffles xeffles   224 Apr 30 23:18 .msshrc~
+-rw-rw-r--  1 xeffles xeffles  1443 Apr 30 18:44 Makefile
+drwxrwxr-x  2 xeffles xeffles  4096 May  2 16:43 alias
+drwxrwxr-x  2 xeffles xeffles  4096 Apr 30 23:34 command
+-rw-rw-r--  1 xeffles xeffles 10136 May  2 17:07 cscd340Lab8.c
+-rw-rw-r--  1 xeffles xeffles 36565 Apr 30 23:35 cscd340Lab8.pdf
+-rw-rw-r--  1 xeffles xeffles    17 May  2 16:49 in.txt
+drwxrwxr-x  2 xeffles xeffles  4096 Apr 30 23:34 linkedlist
+-rwxrwxr-x  1 xeffles xeffles 42360 May  2 17:07 mssh
+-rw-rw-r--  1 xeffles xeffles     2 May  2 16:59 out.txt
+-rw-rw-r--  1 xeffles xeffles     0 May  2 17:08 output.txt
+drwxrwxr-x  2 xeffles xeffles  4096 Apr 30 23:34 pipes
+drwxrwxr-x  2 xeffles xeffles  4096 Apr 30 23:34 process
+drwxrwxr-x  2 xeffles xeffles  4096 Apr 30 23:34 tokenize
+drwxrwxr-x  2 xeffles xeffles  4096 Apr 30 23:34 utils
